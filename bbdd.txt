@@ -1,3 +1,0 @@
-botella de agua/1.2/3
-lata de cocacola/1.5/6
-lata de fanta/1.5/5
